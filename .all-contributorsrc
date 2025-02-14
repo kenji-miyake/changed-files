@@ -178,6 +178,82 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "albertoperdomo2",
+      "name": "Alberto Perdomo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62241095?v=4",
+      "profile": "https://github.com/albertoperdomo2",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "V0lantis",
+      "name": "Arthur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37664438?v=4",
+      "profile": "https://arthurvolant.com",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "rodrigorfk",
+      "name": "Rodrigo Fior Kuntzer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1995033?v=4",
+      "profile": "https://github.com/rodrigorfk",
+      "contributions": [
+        "code",
+        "test",
+        "bug"
+      ]
+    },
+    {
+      "login": "levenleven",
+      "name": "Aleksey Levenstein",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6463364?v=4",
+      "profile": "https://github.com/levenleven",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "dan-hill2802",
+      "name": "Daniel Hill",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5046322?v=4",
+      "profile": "https://github.com/dan-hill2802",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "KeisukeYamashita",
+      "name": "KeisukeYamashita",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23056537?v=4",
+      "profile": "https://keisukeyamashita.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "codesculpture",
+      "name": "Aravind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63452117?v=4",
+      "profile": "https://github.com/codesculpture",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "Whadup",
+      "name": "Lukas Pfahler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2308119?v=4",
+      "profile": "https://lukaspfahler.de",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -186,5 +262,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
